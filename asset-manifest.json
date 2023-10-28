@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Phyapp/static/css/main.ce576b1c.css",
-    "main.js": "/Phyapp/static/js/main.68b29a1c.js",
-    "index.html": "/Phyapp/index.html",
-    "main.ce576b1c.css.map": "/Phyapp/static/css/main.ce576b1c.css.map",
-    "main.68b29a1c.js.map": "/Phyapp/static/js/main.68b29a1c.js.map"
+    "main.css": "/Phyapp/public/index.html/static/css/main.ce576b1c.css",
+    "main.js": "/Phyapp/public/index.html/static/js/main.68b29a1c.js",
+    "index.html": "/Phyapp/public/index.html/index.html",
+    "main.ce576b1c.css.map": "/Phyapp/public/index.html/static/css/main.ce576b1c.css.map",
+    "main.68b29a1c.js.map": "/Phyapp/public/index.html/static/js/main.68b29a1c.js.map"
   },
   "entrypoints": [
     "static/css/main.ce576b1c.css",
