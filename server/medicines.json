@@ -1,0 +1,999 @@
+{
+  "users": [],
+  "bp-logs": [
+    {
+      "date": "Fri Sep 22 2023",
+      "time": "02:11:13 GMT+0600 (Bangladesh Standard Time)",
+      "user": "baba",
+      "morning": {
+        "sys": "",
+        "dia": ""
+      },
+      "evening": {
+        "sys": "",
+        "dia": ""
+      },
+      "night": {
+        "sys": "120",
+        "dia": "70"
+      },
+      "id": 1
+    },
+    {
+      "date": "Fri Sep 22 2023",
+      "time": "02:11:39 GMT+0600 (Bangladesh Standard Time)",
+      "user": "maa",
+      "morning": {
+        "sys": "",
+        "dia": ""
+      },
+      "evening": {
+        "sys": "",
+        "dia": ""
+      },
+      "night": {
+        "sys": "110",
+        "dia": "70"
+      },
+      "id": 2
+    },
+    {
+      "date": "Sat Sep 23 2023",
+      "time": "02:12:02 GMT+0600 (Bangladesh Standard Time)",
+      "user": "baba",
+      "morning": {
+        "sys": "",
+        "dia": ""
+      },
+      "evening": {
+        "sys": "",
+        "dia": ""
+      },
+      "night": {
+        "sys": "120",
+        "dia": "80"
+      },
+      "id": 3
+    },
+    {
+      "date": "Sat Sep 23 2023",
+      "time": "02:12:16 GMT+0600 (Bangladesh Standard Time)",
+      "user": "maa",
+      "morning": {
+        "sys": "",
+        "dia": ""
+      },
+      "evening": {
+        "sys": "",
+        "dia": ""
+      },
+      "night": {
+        "sys": "120",
+        "dia": "80"
+      },
+      "id": 4
+    },
+    {
+      "date": "Mon Sep 25 2023",
+      "time": "01:13:08 GMT+0600 (Bangladesh Standard Time)",
+      "user": "maa",
+      "morning": {
+        "sys": "",
+        "dia": ""
+      },
+      "evening": {
+        "sys": "",
+        "dia": ""
+      },
+      "night": {
+        "sys": "120",
+        "dia": "70"
+      },
+      "id": 7
+    },
+    {
+      "date": "Mon Sep 25 2023",
+      "time": "01:13:20 GMT+0600 (Bangladesh Standard Time)",
+      "user": "baba",
+      "morning": {
+        "sys": "",
+        "dia": ""
+      },
+      "evening": {
+        "sys": "",
+        "dia": ""
+      },
+      "night": {
+        "sys": "120",
+        "dia": "80"
+      },
+      "id": 8
+    },
+    {
+      "date": "Tue Sep 26 2023",
+      "time": "00:15:25 GMT+0600 (Bangladesh Standard Time)",
+      "user": "maa",
+      "morning": {
+        "sys": "",
+        "dia": ""
+      },
+      "evening": {
+        "sys": "",
+        "dia": ""
+      },
+      "night": {
+        "sys": "120",
+        "dia": "80"
+      },
+      "id": 9
+    },
+    {
+      "date": "Tue Sep 26 2023",
+      "time": "00:15:35 GMT+0600 (Bangladesh Standard Time)",
+      "user": "baba",
+      "morning": {
+        "sys": "",
+        "dia": ""
+      },
+      "evening": {
+        "sys": "",
+        "dia": ""
+      },
+      "night": {
+        "sys": "120",
+        "dia": "80"
+      },
+      "id": 10
+    },
+    {
+      "date": "Wed Sep 27 2023",
+      "time": "08:35:17 GMT+0600 (Bangladesh Standard Time)",
+      "user": "maa",
+      "morning": {
+        "sys": "",
+        "dia": ""
+      },
+      "evening": {
+        "sys": "",
+        "dia": ""
+      },
+      "night": {
+        "sys": "118",
+        "dia": "70"
+      },
+      "id": 11
+    },
+    {
+      "date": "Wed Sep 27 2023",
+      "time": "08:35:48 GMT+0600 (Bangladesh Standard Time)",
+      "user": "baba",
+      "morning": {
+        "sys": "",
+        "dia": ""
+      },
+      "evening": {
+        "sys": "",
+        "dia": ""
+      },
+      "night": {
+        "sys": "120",
+        "dia": "75"
+      },
+      "id": 12
+    },
+    {
+      "date": "Thu Sep 28 2023",
+      "time": "00:33:02 GMT+0600 (Bangladesh Standard Time)",
+      "user": "maa",
+      "morning": {
+        "sys": "",
+        "dia": ""
+      },
+      "evening": {
+        "sys": "118",
+        "dia": "70"
+      },
+      "night": {
+        "sys": "115",
+        "dia": "70"
+      },
+      "id": 14
+    },
+    {
+      "date": "Thu Sep 28 2023",
+      "time": "00:33:29 GMT+0600 (Bangladesh Standard Time)",
+      "user": "baba",
+      "morning": {
+        "sys": "",
+        "dia": ""
+      },
+      "evening": {
+        "sys": "120",
+        "dia": "75"
+      },
+      "night": {
+        "sys": "120",
+        "dia": "70"
+      },
+      "id": 15
+    },
+    {
+      "date": "Fri Sep 29 2023",
+      "time": "00:39:29 GMT+0600 (Bangladesh Standard Time)",
+      "user": "maa",
+      "morning": {
+        "sys": "",
+        "dia": ""
+      },
+      "evening": {
+        "sys": "",
+        "dia": ""
+      },
+      "night": {
+        "sys": "120",
+        "dia": "90"
+      },
+      "id": 16
+    },
+    {
+      "date": "Sun Oct 01 2023",
+      "time": "00:40:17 GMT+0600 (Bangladesh Standard Time)",
+      "user": "maa",
+      "morning": {
+        "sys": "",
+        "dia": ""
+      },
+      "evening": {
+        "sys": "",
+        "dia": ""
+      },
+      "night": {
+        "sys": "120",
+        "dia": "70"
+      },
+      "id": 17
+    },
+    {
+      "date": "Sun Oct 01 2023",
+      "time": "00:40:26 GMT+0600 (Bangladesh Standard Time)",
+      "user": "baba",
+      "morning": {
+        "sys": "",
+        "dia": ""
+      },
+      "evening": {
+        "sys": "",
+        "dia": ""
+      },
+      "night": {
+        "sys": "120",
+        "dia": "70"
+      },
+      "id": 18
+    },
+    {
+      "date": "Mon Oct 02 2023",
+      "time": "00:50:14 GMT+0600 (Bangladesh Standard Time)",
+      "user": "maa",
+      "morning": {
+        "sys": "130",
+        "dia": "90"
+      },
+      "evening": {
+        "sys": "",
+        "dia": ""
+      },
+      "night": {
+        "sys": "115",
+        "dia": "70"
+      },
+      "id": 19
+    },
+    {
+      "date": "Mon Oct 02 2023",
+      "time": "00:50:29 GMT+0600 (Bangladesh Standard Time)",
+      "user": "baba",
+      "morning": {
+        "sys": "",
+        "dia": ""
+      },
+      "evening": {
+        "sys": "",
+        "dia": ""
+      },
+      "night": {
+        "sys": "130",
+        "dia": "80"
+      },
+      "id": 20
+    },
+    {
+      "date": "Tue Oct 03 2023",
+      "time": "01:16:20 GMT+0600 (Bangladesh Standard Time)",
+      "user": "maa",
+      "morning": {
+        "sys": "",
+        "dia": ""
+      },
+      "evening": {
+        "sys": "",
+        "dia": ""
+      },
+      "night": {
+        "sys": "120",
+        "dia": "80"
+      },
+      "id": 21
+    },
+    {
+      "date": "Tue Oct 03 2023",
+      "time": "01:16:56 GMT+0600 (Bangladesh Standard Time)",
+      "user": "baba",
+      "morning": {
+        "sys": "",
+        "dia": ""
+      },
+      "evening": {
+        "sys": "",
+        "dia": ""
+      },
+      "night": {
+        "sys": "120",
+        "dia": "70"
+      },
+      "id": 22
+    },
+    {
+      "date": "Wed Oct 04 2023",
+      "time": "01:38:26 GMT+0600 (Bangladesh Standard Time)",
+      "user": "maa",
+      "morning": {
+        "sys": "",
+        "dia": ""
+      },
+      "evening": {
+        "sys": "",
+        "dia": ""
+      },
+      "night": {
+        "sys": "120",
+        "dia": "75"
+      },
+      "id": 23
+    },
+    {
+      "date": "Wed Oct 04 2023",
+      "time": "01:38:57 GMT+0600 (Bangladesh Standard Time)",
+      "user": "baba",
+      "morning": {
+        "sys": "",
+        "dia": ""
+      },
+      "evening": {
+        "sys": "",
+        "dia": ""
+      },
+      "night": {
+        "sys": "130",
+        "dia": "80"
+      },
+      "id": 24
+    },
+    {
+      "date": "Fri Oct 06 2023",
+      "time": "03:01:04 GMT+0600 (Bangladesh Standard Time)",
+      "user": "maa",
+      "morning": {
+        "sys": "",
+        "dia": ""
+      },
+      "evening": {
+        "sys": "",
+        "dia": ""
+      },
+      "night": {
+        "sys": "120",
+        "dia": "80"
+      },
+      "id": 25
+    },
+    {
+      "date": "Fri Oct 06 2023",
+      "time": "03:01:17 GMT+0600 (Bangladesh Standard Time)",
+      "user": "baba",
+      "morning": {
+        "sys": "",
+        "dia": ""
+      },
+      "evening": {
+        "sys": "",
+        "dia": ""
+      },
+      "night": {
+        "sys": "130",
+        "dia": "80"
+      },
+      "id": 26
+    },
+    {
+      "date": "Sat Oct 07 2023",
+      "time": "01:36:22 GMT+0600 (Bangladesh Standard Time)",
+      "user": "maa",
+      "morning": {
+        "sys": "",
+        "dia": ""
+      },
+      "evening": {
+        "sys": "",
+        "dia": ""
+      },
+      "night": {
+        "sys": "120",
+        "dia": "70"
+      },
+      "id": 27
+    },
+    {
+      "date": "Sat Oct 07 2023",
+      "time": "01:36:48 GMT+0600 (Bangladesh Standard Time)",
+      "user": "baba",
+      "morning": {
+        "sys": "",
+        "dia": ""
+      },
+      "evening": {
+        "sys": "",
+        "dia": ""
+      },
+      "night": {
+        "sys": "135",
+        "dia": "90"
+      },
+      "id": 28
+    },
+    {
+      "date": "Mon Oct 09 2023",
+      "time": "02:44:43 GMT+0600 (Bangladesh Standard Time)",
+      "user": "maa",
+      "morning": {
+        "sys": "",
+        "dia": ""
+      },
+      "evening": {
+        "sys": "",
+        "dia": ""
+      },
+      "night": {
+        "sys": "120",
+        "dia": "70"
+      },
+      "id": 29
+    },
+    {
+      "date": "Invalid Date",
+      "time": "21:43:32 GMT+0600 (Bangladesh Standard Time)",
+      "user": "",
+      "morning": {
+        "sys": "10",
+        "dia": "10"
+      },
+      "evening": {
+        "sys": "10",
+        "dia": "10"
+      },
+      "night": {
+        "sys": "10",
+        "dia": "10"
+      },
+      "id": 30
+    },
+    {
+      "date": "Sat Oct 14 2023",
+      "time": "00:58:59 GMT+0600 (Bangladesh Standard Time)",
+      "user": "maa",
+      "morning": {
+        "sys": "",
+        "dia": ""
+      },
+      "evening": {
+        "sys": "",
+        "dia": ""
+      },
+      "night": {
+        "sys": "120",
+        "dia": "70"
+      },
+      "id": 31
+    },
+    {
+      "date": "Sat Oct 14 2023",
+      "time": "00:59:20 GMT+0600 (Bangladesh Standard Time)",
+      "user": "baba",
+      "morning": {
+        "sys": "",
+        "dia": ""
+      },
+      "evening": {
+        "sys": "",
+        "dia": ""
+      },
+      "night": {
+        "sys": "140",
+        "dia": "80"
+      },
+      "id": 32
+    },
+    {
+      "date": "Sun Oct 15 2023",
+      "time": "02:21:43 GMT+0600 (Bangladesh Standard Time)",
+      "user": "baba",
+      "morning": {
+        "sys": "",
+        "dia": ""
+      },
+      "evening": {
+        "sys": "",
+        "dia": ""
+      },
+      "night": {
+        "sys": "135",
+        "dia": "80"
+      },
+      "id": 33
+    },
+    {
+      "date": "Sun Oct 15 2023",
+      "time": "02:21:59 GMT+0600 (Bangladesh Standard Time)",
+      "user": "maa",
+      "morning": {
+        "sys": "",
+        "dia": ""
+      },
+      "evening": {
+        "sys": "",
+        "dia": ""
+      },
+      "night": {
+        "sys": "130",
+        "dia": "70"
+      },
+      "id": 34
+    },
+    {
+      "date": "Wed Oct 18 2023",
+      "time": "02:38:19 GMT+0600 (Bangladesh Standard Time)",
+      "user": "baba",
+      "morning": {
+        "sys": "",
+        "dia": ""
+      },
+      "evening": {
+        "sys": "",
+        "dia": ""
+      },
+      "night": {
+        "sys": "120",
+        "dia": "70"
+      },
+      "id": 35
+    },
+    {
+      "date": "Wed Oct 18 2023",
+      "time": "02:38:41 GMT+0600 (Bangladesh Standard Time)",
+      "user": "maa",
+      "morning": {
+        "sys": "",
+        "dia": ""
+      },
+      "evening": {
+        "sys": "",
+        "dia": ""
+      },
+      "night": {
+        "sys": "130",
+        "dia": "80"
+      },
+      "id": 36
+    },
+    {
+      "date": "Fri Oct 20 2023",
+      "time": "04:00:47 GMT+0600 (Bangladesh Standard Time)",
+      "user": "maa",
+      "morning": {
+        "sys": "",
+        "dia": ""
+      },
+      "evening": {
+        "sys": "",
+        "dia": ""
+      },
+      "night": {
+        "sys": "120",
+        "dia": "70"
+      },
+      "id": 37
+    },
+    {
+      "date": "Sun Oct 22 2023",
+      "time": "17:41:12 GMT+0600 (Bangladesh Standard Time)",
+      "user": "maa",
+      "morning": {
+        "sys": "",
+        "dia": ""
+      },
+      "evening": {
+        "sys": "",
+        "dia": ""
+      },
+      "night": {
+        "sys": "100",
+        "dia": "60"
+      },
+      "id": 38
+    },
+    {
+      "date": "Tue Oct 24 2023",
+      "time": "21:53:01 GMT+0600 (Bangladesh Standard Time)",
+      "user": "maa",
+      "morning": {
+        "sys": "",
+        "dia": ""
+      },
+      "evening": {
+        "sys": "",
+        "dia": ""
+      },
+      "night": {
+        "sys": "110",
+        "dia": "60"
+      },
+      "id": 39
+    },
+    {
+      "date": "Wed Oct 25 2023",
+      "time": "21:53:36 GMT+0600 (Bangladesh Standard Time)",
+      "user": "maa",
+      "morning": {
+        "sys": "",
+        "dia": ""
+      },
+      "evening": {
+        "sys": "120",
+        "dia": "75"
+      },
+      "night": {
+        "sys": "120",
+        "dia": "70"
+      },
+      "id": 40
+    },
+    {
+      "date": "Wed Oct 25 2023",
+      "time": "21:53:54 GMT+0600 (Bangladesh Standard Time)",
+      "user": "baba",
+      "morning": {
+        "sys": "",
+        "dia": ""
+      },
+      "evening": {
+        "sys": "130",
+        "dia": "80"
+      },
+      "night": {
+        "sys": "",
+        "dia": ""
+      },
+      "id": 41
+    }
+  ],
+  "medicines": [
+    {
+      "id": 1,
+      "name": "Ascon SF",
+      "type": "Inhaler",
+      "status": [
+        true,
+        true,
+        true
+      ],
+      "doses": [
+        1,
+        0,
+        1
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Provair 10mg",
+      "type": "Capsule",
+      "status": [
+        false,
+        true,
+        false
+      ],
+      "doses": [
+        1,
+        0,
+        1
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Doxiva 200mg",
+      "type": "Tablet",
+      "status": [
+        true,
+        false,
+        true
+      ],
+      "doses": [
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Bislol 5mg",
+      "type": "Tablet",
+      "status": [
+        false,
+        false,
+        false
+      ],
+      "doses": [
+        1,
+        0,
+        1
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Osartil 50mg",
+      "type": "Tablet",
+      "status": [
+        true,
+        false,
+        true
+      ],
+      "doses": [
+        1,
+        0,
+        1
+      ]
+    }
+  ],
+  "logs": [
+    {
+      "id": 1,
+      "date": "Mon Jul 24 2023",
+      "array": [
+        {
+          "id": 1,
+          "name": "Ascon SF",
+          "status": [
+            true,
+            false,
+            true
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Provair 10mg",
+          "status": [
+            false,
+            true,
+            false
+          ]
+        },
+        {
+          "id": 3,
+          "name": "Doxiva 200mg",
+          "status": [
+            true,
+            true,
+            false
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "date": "Wed Jul 26 2023",
+      "array": [
+        {
+          "id": 1,
+          "name": "Ascon SF",
+          "status": [
+            true,
+            false,
+            true
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Provair 10mg",
+          "status": [
+            false,
+            true,
+            true
+          ]
+        },
+        {
+          "id": 3,
+          "name": "Doxiva 200mg",
+          "status": [
+            true,
+            true,
+            false
+          ]
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "date": "Sat Aug 12 2023",
+      "array": [
+        {
+          "id": 1,
+          "name": "Ascon SF",
+          "status": [
+            true,
+            false,
+            true
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Provair 10mg",
+          "status": [
+            false,
+            true,
+            true
+          ]
+        },
+        {
+          "id": 3,
+          "name": "Doxiva 200mg",
+          "status": [
+            true,
+            true,
+            false
+          ]
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "date": "Sat Aug 12 2023",
+      "array": [
+        {
+          "id": 1,
+          "name": "Ascon SF",
+          "status": [
+            true,
+            false,
+            true
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Provair 10mg",
+          "status": [
+            true,
+            true,
+            true
+          ]
+        },
+        {
+          "id": 3,
+          "name": "Doxiva 200mg",
+          "status": [
+            false,
+            true,
+            false
+          ]
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "date": "Sat Aug 12 2023 07:58:24",
+      "array": [
+        {
+          "id": 1,
+          "name": "Ascon SF",
+          "status": [
+            true,
+            false,
+            true
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Provair 10mg",
+          "status": [
+            false,
+            true,
+            true
+          ]
+        },
+        {
+          "id": 3,
+          "name": "Doxiva 200mg",
+          "status": [
+            true,
+            false,
+            true
+          ]
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "date": "Sat Aug 12 2023 07:59:38",
+      "array": [
+        {
+          "id": 1,
+          "name": "Ascon SF",
+          "status": [
+            true,
+            false,
+            true
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Provair 10mg",
+          "status": [
+            false,
+            true,
+            true
+          ]
+        },
+        {
+          "id": 3,
+          "name": "Doxiva 200mg",
+          "status": [
+            true,
+            false,
+            true
+          ]
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "date": "Sat Aug 12 2023 08:00:38",
+      "array": [
+        {
+          "id": 1,
+          "name": "Ascon SF",
+          "status": [
+            true,
+            false,
+            true
+          ]
+        },
+        {
+          "id": 2,
+          "name": "Provair 10mg",
+          "status": [
+            false,
+            true,
+            true
+          ]
+        },
+        {
+          "id": 3,
+          "name": "Doxiva 200mg",
+          "status": [
+            true,
+            false,
+            true
+          ]
+        }
+      ]
+    }
+  ]
+}
