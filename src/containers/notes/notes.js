@@ -19,11 +19,13 @@ function Notes() {
         <div className="note-page-header">
           <div id="note-header-text" className="note-header-item">
             <h2 id="notes-text">Notes</h2>
-            <h3 id="new-note-text"> + New Note</h3>
+
             <div id="note-page-icon">
               <LiaNotesMedicalSolid className="pr-note-icon-2" />
 
             </div>
+            <h3 id="new-note-text"> + New Note</h3>
+
             {// <h3 className="plus">+</h3>
             }
 

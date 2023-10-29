@@ -1015,18 +1015,15 @@ input[type="checkbox"] {
   padding-right: 0.25rem;
   padding-bottom: 0.25rem;
   top: 60%;
-  width: 100%;
+  width: 98%;
   max-height: 350px;
   overflow-y: scroll;
   display: flex;
   flex-direction: column;
-  /* background: #181514; */
   background: #202020;
-  /* background: whitesmoke; */
-  /* border: 1px solid white; */
+
   border-radius: 4px;
-  /* width: 75.5%; */
-  /* border-bottom: 2px solid #00ced1; */
+
   z-index: 10;
 }
 .show-searched-log {
@@ -1292,6 +1289,34 @@ input[type="checkbox"] {
   .more-items-hide {
     display: grid;
     grid-template-columns: auto auto auto auto;
+  }
+
+  .navlink {
+    opacity: 0;
+    animation-name: lg-slide;
+    animation-iteration-count: 1;
+    animation-duration: 0.5s;
+    animation-timing-function: ease-in-out;
+    animation-fill-mode: forwards;
+  }
+}
+.more-items-hide .navlink {
+  animation-name: lg-slide-rev;
+  animation-iteration-count: 1;
+  animation-duration: 0.3s;
+
+  animation-timing-function: ease-in-out;
+  animation-fill-mode: forwards;
+}
+
+@keyframes lg-slide-rev {
+  from {
+    opacity: 1;
+    scale: 1;
+  }
+  to {
+    opacity: 0;
+    scale: 0;
   }
 }
 
@@ -1775,18 +1800,17 @@ input[type="date"] {
   box-shadow: 0 0 0.5em darkturquoise;
   transform: scale(1.1);
 }
-#note-page-icon:hover::after {
+/* #note-page-icon:hover::after {
   content: "New Note";
-  font-size: smaller;
+  font-size: 0.5em;
   position: absolute;
   color: rgb(243, 230, 206);
   top: 110%;
-  /* right: -10%; */
   width: 132%;
   background: #202020;
   padding: 0.25rem 0.5rem;
   transition: 0.3s;
-}
+} */
 
 /* #note-page-icon,
 .pr-note-icon-2,
@@ -1796,14 +1820,37 @@ input[type="date"] {
 #note-page-icon,
 .pr-note-icon-2 {
   display: none;
+  height: 21px;
+  width: 21px;
 }
 
+/* .new-note {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+} */
 @media (max-width: 540px) {
+  #note-header-text {
+    /* display: flex; */
+    /* flex-direction: row; */
+    justify-content: center;
+  }
+  #note-page-icon:hover::after {
+    content: "New Note";
+    font-size: 0.7em;
+    position: absolute;
+    color: rgb(243, 230, 206);
+    top: 110%;
+    width: 150%;
+    background: #202020;
+    padding: 0.25rem 0.5rem;
+    transition: 0.3s;
+  }
   #note-page-icon,
   .pr-note-icon-2 {
     display: flex;
-    min-height: 42px;
-    width: 42px;
+    min-height: 30px;
+    width: 30px;
   }
   #notes-text,
   #new-note-text,

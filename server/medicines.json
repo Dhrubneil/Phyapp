@@ -684,6 +684,42 @@
         "dia": ""
       },
       "id": 41
+    },
+    {
+      "date": "Sat Oct 28 2023",
+      "time": "21:15:38 GMT+0600 (Bangladesh Standard Time)",
+      "user": "maa",
+      "morning": {
+        "sys": "",
+        "dia": ""
+      },
+      "evening": {
+        "sys": "",
+        "dia": ""
+      },
+      "night": {
+        "sys": "110",
+        "dia": "60"
+      },
+      "id": 42
+    },
+    {
+      "date": "Sat Oct 28 2023",
+      "time": "21:16:00 GMT+0600 (Bangladesh Standard Time)",
+      "user": "baba",
+      "morning": {
+        "sys": "",
+        "dia": ""
+      },
+      "evening": {
+        "sys": "",
+        "dia": ""
+      },
+      "night": {
+        "sys": "120",
+        "dia": "80"
+      },
+      "id": 43
     }
   ],
   "medicines": [
