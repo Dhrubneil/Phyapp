@@ -20,6 +20,7 @@ const Home = (
 function App() {
   return (
     <Routes>
+      <Route path="/Phyapp" element={Home} />
       <Route path="/" element={Home} />
       <Route path="/home" element={Home} />
       <Route path="/medicines" element={<Medicines />} />
