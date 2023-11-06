@@ -19,7 +19,7 @@ function Navbar() {
       <nav>
         <span className="logo">
           <Icon />
-          <NavLink to="/home" className={classes.logoLink}><h1 className="app-icon">Pyhapp</h1></NavLink>
+          <NavLink to="/" className={classes.logoLink}><h1 className="app-icon">Phyapp</h1></NavLink>
         </span>
 
         <ul className="navLinks">

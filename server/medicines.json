@@ -720,6 +720,114 @@
         "dia": "80"
       },
       "id": 43
+    },
+    {
+      "date": "Tue Oct 31 2023",
+      "time": "22:55:44 GMT+0600 (Bangladesh Standard Time)",
+      "user": "maa",
+      "morning": {
+        "sys": "",
+        "dia": ""
+      },
+      "evening": {
+        "sys": "",
+        "dia": ""
+      },
+      "night": {
+        "sys": "120",
+        "dia": "70"
+      },
+      "id": 44
+    },
+    {
+      "date": "Tue Oct 31 2023",
+      "time": "22:56:01 GMT+0600 (Bangladesh Standard Time)",
+      "user": "baba",
+      "morning": {
+        "sys": "",
+        "dia": ""
+      },
+      "evening": {
+        "sys": "",
+        "dia": ""
+      },
+      "night": {
+        "sys": "130",
+        "dia": "80"
+      },
+      "id": 45
+    },
+    {
+      "date": "Thu Nov 02 2023",
+      "time": "01:09:40 GMT+0600 (Bangladesh Standard Time)",
+      "user": "maa",
+      "morning": {
+        "sys": "",
+        "dia": ""
+      },
+      "evening": {
+        "sys": "",
+        "dia": ""
+      },
+      "night": {
+        "sys": "110",
+        "dia": "60"
+      },
+      "id": 46
+    },
+    {
+      "date": "Thu Nov 02 2023",
+      "time": "01:10:02 GMT+0600 (Bangladesh Standard Time)",
+      "user": "baba",
+      "morning": {
+        "sys": "",
+        "dia": ""
+      },
+      "evening": {
+        "sys": "",
+        "dia": ""
+      },
+      "night": {
+        "sys": "125",
+        "dia": "80"
+      },
+      "id": 47
+    },
+    {
+      "date": "Fri Nov 03 2023",
+      "time": "01:27:09 GMT+0600 (Bangladesh Standard Time)",
+      "user": "maa",
+      "morning": {
+        "sys": "",
+        "dia": ""
+      },
+      "evening": {
+        "sys": "",
+        "dia": ""
+      },
+      "night": {
+        "sys": "120",
+        "dia": "70"
+      },
+      "id": 48
+    },
+    {
+      "date": "Fri Nov 03 2023",
+      "time": "01:27:38 GMT+0600 (Bangladesh Standard Time)",
+      "user": "baba",
+      "morning": {
+        "sys": "",
+        "dia": ""
+      },
+      "evening": {
+        "sys": "",
+        "dia": ""
+      },
+      "night": {
+        "sys": "125",
+        "dia": "75"
+      },
+      "id": 49
     }
   ],
   "medicines": [
